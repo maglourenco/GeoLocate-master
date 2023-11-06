@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">GeoLocate</string>
+
+    <!-- Feature Service URL -->
+    <string name="feature_service">
+        YOUR_ARCGIS_FEATURE_SERVICE_URL"</string>
+
+    <!-- API KEY -->
+    <string name="api_key">YOUR_ARCGIS_API_KEY</string>
+
+    <!-- In-app messages -->
+    <string name="noOfAttachments">noOfAttachments</string>
+    <string name="objectid">"ObjectID"</string>
+    <string name="fetching_attachments">Fetching Attachments</string>
+    <string name="processing">Processing</string>
+    <string name="wait">Please wait...</string>
+    <string name="downloading_attachments">Downloading Attachments</string>
+    <string name="gps_accuracy">GPS accuracy (m): </string>
+    <string name="azimuth">Azimuth (º): </string>
+    <string name="pitch">Pitch (º): </string>
+    <string name="number_of_attachments">Number of attachments:</string>
+    <string name="estimation_options">Estimation options</string>
+    <string name="see_info">SEE INFO</string>
+    <string name="see_in_3d">SEE IN 3D</string>
+    <string name="note_optional">Note (optional)</string>
+    <string name="include_attachment">INCLUDE ATTACHMENT</string>
+    <string name="attachment_from">Attachment from</string>
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALLERY</string>
+    <string name="geolocate">GEOLOCATE</string>
+    <string name="attachments_activity">Attachments</string>
+    <string name="empty_attachments">Empty list of attachments</string>
+    <string name="estimation_attributes_dialog">Estimation attributes</string>
+    <string name="add_estimation_dialog">Add estimation?</string>
+    <string name="yes_dialog">Yes</string>
+    <string name="add_dialog">Add</string>
+    <string name="cancel_dialog">Cancel</string>
+    <string name="close_dialog">Close</string>
+    <string name="error_message">There was an error</string>
+    <string name="dem_failed_load">DEM did NOT load</string>
+    <string name="yes_internet">Internet connection established</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="camera_permission">Camera permission not granted</string>
+    <string name="location_permission">Location permission not granted</string>
+    <string name="total_distance">Total distance (m): </string>
+    <string name="origin">Origin: </string>
+    <string name="destination">Destination: </string>
+    <string name="distance_target_error">Distance-to-target error (m): </string>
+    <string name="share_via">Share via</string>
+    <string name="test_menu_option">Test</string>
+    <string name="not_inside_dem">User outside the DEM</string>
+    <string name="settings">Adjust the user\'s smartphone height (m)</string>
+    <string name="debug">Debug mode</string>
+</resources>

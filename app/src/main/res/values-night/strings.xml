@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gps_accuracy">GPS accuracy:</string>
+    <string name="azimuth">Azimute:</string>
+    <string name="number_of_attachments">Number of attachments:</string>
+    <string name="estimation_options">Estimation options</string>
+    <string name="see_info">SEE INFO</string>
+    <string name="see_in_3d">SEE IN 3D</string>
+    <string name="note_optional">Note (optional)</string>
+    <string name="include_attachment">INCLUDE ATTACHMENT</string>
+    <string name="attachment_from">Attachment from</string>
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALLERY</string>
+    <string name="geolocate">GEOLOCATE</string>
+    <string name="total_distance">\"Total distance (m): \"</string>
+    <string name="origin">\"Origin: \"</string>
+    <string name="destination">\"Destination: \"</string>
+    <string name="distance_target_error">\"Distance-to-target error (m): \"</string>
+    <string name="share_via">Share via</string>
+    <string name="test_menu_option">Test</string>
+</resources>

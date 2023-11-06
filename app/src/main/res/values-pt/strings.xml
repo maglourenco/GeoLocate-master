@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoLocate</string>
+
+    <!-- In-app messages -->
+    <string name="noOfAttachments">noOfAttachments</string>
+    <string name="objectid">"ObjectID"</string>
+    <string name="fetching_attachments">Obtendo os anexos</string>
+    <string name="processing">Processando</string>
+    <string name="wait">Por favor aguarde...</string>
+    <string name="downloading_attachments">Descarregando os anexos</string>
+    <string name="gps_accuracy">Precisão GPS (m): </string>
+    <string name="azimuth">Azimute (º): </string>
+    <string name="pitch">Pitch (º): </string>
+    <string name="number_of_attachments">Numero de anexos:</string>
+    <string name="estimation_options">Opcoes da estimativa</string>
+    <string name="see_info">VER INFO</string>
+    <string name="see_in_3d">VER EM 3D</string>
+    <string name="note_optional">Nota (opcional)</string>
+    <string name="include_attachment">INCLUIR ANEXO</string>
+    <string name="attachment_from">Anexo de</string>
+    <string name="camera">CAMARA</string>
+    <string name="gallery">GALERIA</string>
+    <string name="geolocate">GEOLOCALIZAR</string>
+    <string name="attachments_activity">Anexos</string>
+    <string name="empty_attachments">Lista de anexos vazia</string>
+    <string name="estimation_attributes_dialog">Atributos da estimativa</string>
+    <string name="add_estimation_dialog">Adicionar estimativa?</string>
+    <string name="yes_dialog">Sim</string>
+    <string name="add_dialog">Adicionar</string>
+    <string name="cancel_dialog">Cancelar</string>
+    <string name="close_dialog">Fechar</string>
+    <string name="error_message">Ocorreu um erro</string>
+    <string name="dem_failed_load">MDT nao carregou</string>
+    <string name="yes_internet">Conexao internet estabelecida</string>
+    <string name="no_internet">Sem conexao de internet</string>
+    <string name="camera_permission">Permissao de camara nao concedida</string>
+    <string name="location_permission">Permissao de localizacao nao concedida</string>
+    <string name="total_distance">Distancia total (m): </string>
+    <string name="origin">Origem: </string>
+    <string name="destination">Destino: </string>
+    <string name="distance_target_error">Erro de distancia ao destino (m): </string>
+    <string name="share_via">Partilhar via</string>
+    <string name="test_menu_option">Teste</string>
+    <string name="not_inside_dem">Utilizador fora do MDT</string>
+    <string name="settings">Ajustar a altura do smartphone do utilizador (m)</string>
+    <string name="debug">Modo de depuramento</string>
+</resources>
