@@ -10,7 +10,9 @@ Geolocate a wildfire leveraging smartphone built-in sensors and a DEM.
 
 ## Overview
 ### Algorithm
-![geoLocate_algo](assets/fire_geolocation_algo.png)
+<div style="text-align: center;">
+  <img src="assets/fire_geolocation_algo.png" alt="geolocate_algo" width="700"/>
+</div>
 
 An app was developed to geolocate wildfire outbreaks. The user aims the smartphone’s camera at the fire outbreak and takes a picture. The GPS location, the device’s pitch and azimuth and the device’s elevation (through a DEM) are retrieved from the smartphone’s built-in sensors. These data is used to calculate the user’s visual line-of-sight (VLOS). A diagram is provided that explains the algorithm developed to calculate the VLOS.
 
@@ -36,17 +38,20 @@ An app was developed to geolocate wildfire outbreaks. The user aims the smartpho
 * A distance error of between 2.8 - 5.4% was obtained;
 * The application was developed with the ArcGIS Runtime SDK for Android.
 
-![GeoLocate app](assets/geolocate_app_screenshots.png)
+<div style="text-align: center;">
+  <img src="assets/geolocate_app_screenshots.png" alt="geolocate_screenshots" width="500"/>
+</div>
+
 
 
 
 ### Run the sample
 
-* Clone the project from the repository
+* Clone the project from the repository.
 * Download the DEM:
-    1. Download the the DEM ([retrieved from this lpk file](https://hub.arcgis.com/content/d52d4dc61fac482ca95f1369df532d60));
-    2. Extract the contents of the downloaded zip file to disk;
-    3. Open your command prompt and navigate to the folder where you extracted the contents of the data from step 1;
+    1. Download the DEM file ([retrieved from this lpk file](https://hub.arcgis.com/content/d52d4dc61fac482ca95f1369df532d60)).
+    2. Extract the contents of the downloaded zip file to disk.
+    3. Open your command prompt and navigate to the folder where you extracted the contents of the data from step 1.
     4. Execute the command:
     
     ```
